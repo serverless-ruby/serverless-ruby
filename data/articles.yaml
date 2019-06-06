@@ -1,13 +1,26 @@
 -
+  title: 'AWS Lambda announced official Ruby Support'
+  date: 2018-11-29
+  url: 'https://aws.amazon.com/blogs/compute/announcing-ruby-support-for-aws-lambda/'
+  tags: ['article']
+-
+  title: 'serverless-sinatra-sample'
+  date: 2018-11-30
+  url: 'https://github.com/aws-samples/serverless-sinatra-sample'
+  tags: ['git']
+-
   title: "Ruby Sinatra on AWS Lambda"
   date: 2018-12-06
   url: 'https://blog.eq8.eu/article/sinatra-on-aws-lambda.html'
+  tags: ['article', 'tutorial']
 -
   title: 'Serverless Ruby and future of Web Development'
   date: 2019-03-01
   url: 'https://faastruby.io/blog/serverless-ruby-and-future-of-web-development/'
+  tags: ['article']
 -
   title: "AWS Lambda + Ruby [build Podcast website tutorial]"
   date: 2019-05-31
   url: 'http://dustinzeisler.com/ruby/2019/05/31/aws-lambda-podcast-in-ruby.html'
+  tags: ['article', 'tutorial']
 
