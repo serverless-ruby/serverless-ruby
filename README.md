@@ -17,13 +17,18 @@ only changes in `/source` or `/data` folders.
 If you never worked with [Middleman](https://middlemanapp.com/) please read https://middlemanapp.com/basics/templating_language/ 
 
 
-### Starting website in your laptop (development)
+#### Starting website in your laptop (development)
 
+
+Fork repo, `git clone` fork to your laptop, cd to the folder and do:
 
 ```
 bundle install
 middleman server
 ```
+
+website will be served on <http://localhost:4567/>
+
 
 #### tests
 
